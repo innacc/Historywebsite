@@ -56,6 +56,18 @@ body {
   text-align: start;
 }
 
+#thesis {
+    text-align: center;
+    color: #ffffff;
+    position: absolute;
+    font-family: 'GeoBrandBold', 'CenturyGothic', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    padding: 10%;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-color: #ffcc00;
+}
 #footer {
     text-align: center;
     color: #ffffff;
@@ -87,7 +99,7 @@ body {
   bottom: 5.3%;
   right: 26%;
   font-family: 'GeoBrandBold', 'CenturyGothic', sans-serif;
-  padding: 11px 18px;
+  padding: 9px 18px;
   font-size: 19px;
   cursor: pointer;
   text-align: center;
@@ -118,7 +130,7 @@ body {
   bottom: 5.3%;
   right: 68.5%;
   font-family: 'GeoBrandBold', 'CenturyGothic', sans-serif;
-  padding: 10px 20px;
+  padding: 8px 20px;
   font-size: 19px;
   cursor: pointer;
   text-align: center;
@@ -139,6 +151,7 @@ body {
   background-color: #b99400;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
+  
 }
 .long-arrow-left{
   -ms-transform:rotate(315deg); /* IE9 */
